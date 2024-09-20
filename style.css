@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    font-size: 25px;
+   word-spacing: 2px;
+}
+
+body{
+    padding-left: 10px;
+    padding-top: 10px;
+    color: white;
+    background-image: url(https://media.istockphoto.com/id/1435651892/photo/abstract-background.jpg?s=612x612&w=0&k=20&c=kLq48GQDfd2uUMlSCQo0sRxFFJZd9zRlnU1UzR9a6P4=);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
